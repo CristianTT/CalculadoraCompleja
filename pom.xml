@@ -3,6 +3,7 @@
   <groupId>dad.javafx</groupId>
   <artifactId>CalculadoraCompleja</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<exec.mainClass>dad.javafx.Main</exec.mainClass>
   <properties>
 	<maven.compiler.target>11</maven.compiler.target>
 	<maven.compiler.source>11</maven.compiler.source>
